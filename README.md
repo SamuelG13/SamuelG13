@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SamuelG13
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning HTML/CSS
+- 💞️ I’m looking to collaborate on a project website.
